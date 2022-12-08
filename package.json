@@ -11,8 +11,7 @@
     },
     "files": [
         "dist",
-        "index.d.ts",
-        "src"
+        "index.d.ts"
     ],
     "scripts": {
         "start": "serve docs/",
